@@ -1,4 +1,4 @@
-module github.com/j-vizcaino/goteleinfo
+module github.com/ferllings/goteleinfo
 
 require (
 	github.com/prometheus/client_golang v1.14.0
